@@ -39,7 +39,7 @@ header.headline{
 nav{
   width: 880px;
   margin: 0 auto;
-  
+
   border-top: solid .7px #000000;
   border-bottom:  solid .7px #000000;
 }
@@ -63,9 +63,9 @@ main{
 
 .list-wrap{
   display: flex;
-  
+
   flex-wrap: wrap;
-  
+
 }
 
 .list-box{
@@ -91,7 +91,7 @@ main{
   text-overflow: ellipsis;
 }
 .list-title{
-  font-size: 18px;
+  font-size: 19px;
   display: block;
   overflow: hidden;
   white-space: ellipsis;
